@@ -1,3 +1,6 @@
 BASIC TO DO APPLICATION MADE WITH ANGULAR FRAMEWORK
-<img width="499" alt="Ekran Resmi 2022-08-08 10 57 29" src="https://user-images.githubusercontent.com/100374988/183380622-f4dfe4c2-91e5-4aa3-9749-c52fdbf91ba5.png">
-<img width="499" alt="Ekran Resmi 2022-08-08 10 57 29" src="https://user-images.githubusercontent.com/100374988/183380632-c4160a4e-7433-42a9-95fb-c5269ff70ee0.png">
+
+<img width="495" alt="Ekran Resmi 2022-08-08 10 57 14" src="https://user-images.githubusercontent.com/100374988/183380731-4e89938b-4a03-4d8a-b55b-e8a832e94af3.png">
+
+
+<img width="499" alt="Ekran Resmi 2022-08-08 10 57 29" src="https://user-images.githubusercontent.com/100374988/183380750-65add74d-894b-4b9d-adcc-0326a4ef1e2f.png">
